@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : W1143R03.dra                                  )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Fri Apr 14 11:50:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/avack/AVACK2017/AVACK2017/allegro/my_lib
+    Name      = w1143r03.psm
+    User      = AVA147
+    Machine   = AVA147-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

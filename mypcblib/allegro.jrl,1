@@ -1,0 +1,40 @@
+\t (00:00:00) allegro 16.6-2015 S099 (v16-6-112HK) Windows 32
+\t (00:00:00)     Journal start - Sat Sep 16 12:14:48 2017
+\t (00:00:00)         Host=DESKTOP-4UF6AT9 User=Administrator Pid=1760 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\ysp\DocterPai_YSP\AVACK2017\allegro\my_lib\sot-223.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/ysp/DocterPai_YSP/AVACK2017/allegro/my_lib/sot-223.dra
+\i (00:00:00) trapsize 6002
+\i (00:00:00) trapsize 5848
+\i (00:00:00) trapsize 6028
+\i (00:00:00) trapsize 5066
+\i (00:00:00) trapsize 12316
+\i (00:00:01) generaledit 
+\t (00:00:06) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -114.677 67.600
+\i (00:00:10) trapsize 6158
+\i (00:00:10) drag_start grid -195.962 320.077
+\i (00:00:11) drag_stop 347.172 -141.772
+\i (00:00:13) prepopup 111.937 104.548
+\i (00:00:15) pop dyn_option_select @:@Move 
+\i (00:00:15) move 
+\t (00:00:15) last pick:  100.000 100.000
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Element has no origin, using pick.
+\t (00:00:15) Pick new location for the element(s).
+\i (00:00:16) prepopup 111.937 104.548
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:19) prepopup 18.336 152.580
+\i (00:00:21) exit 
+\e (00:00:21) Do you want to save the changes you made to sot-223.dra?
+\i (00:00:23) fillin no 
+\t (00:00:23)     Journal end - Sat Sep 16 12:15:11 2017

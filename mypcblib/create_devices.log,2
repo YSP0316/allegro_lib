@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : MP165X_test.brd                               )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Tue Aug 29 09:51:18 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/Administrator/Desktop/lib/capnp_c0402_15pf040250v.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_10r.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_20k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/header2_hdr254m1x2_header2.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/led_led0603_led.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/capnp_c0805_22uf080525v.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_402k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_13k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_10k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/capnp_c0603_1uf060350v.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/capnp_c0402_100nf.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/ferritbead_0_r0402_1k100m0402.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/inductor_mhci06030_22uh.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/inductor_mhci06030_47uh.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_100k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_47k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_75k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/resistor_r0402_51k.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/tpointr_tp40_smd_tpointr.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/mp165x_sot563_mp1654.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/mp165x_sot563_mp1655.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/mp165x_sot563_mp1657.txt': written successfully.
+Device file 'C:/Users/Administrator/Desktop/lib/mp165x_sot563_mp1658.txt': written successfully.
+
+  Created device files: 23
+

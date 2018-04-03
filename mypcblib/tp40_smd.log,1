@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tp40_smd.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Aug 25 10:45:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/ysp/DocterPai_YSP/AVACK2017/allegro/my_lib
+    Name      = tp40_smd.psm
+    User      = Administrator
+    Machine   = WIN10-705111911
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MTG300_420.dra                                )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Wed Jul 26 09:42:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/ysp/DocterPai_YSP/AVACK2017/allegro/my_lib
+    Name      = mtg300_420.psm
+    User      = Administrator
+    Machine   = WIN10-705111911
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

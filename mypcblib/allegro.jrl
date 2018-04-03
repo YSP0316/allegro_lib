@@ -1,0 +1,79 @@
+\t (00:00:00) allegro 16.6-2015 S099 (v16-6-112HK) Windows 32
+\t (00:00:00)     Journal start - Sat Sep 16 12:15:59 2017
+\t (00:00:00)         Host=DESKTOP-4UF6AT9 User=Administrator Pid=4500 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\ysp\DocterPai_YSP\AVACK2017\allegro\my_lib\sot-223.dra
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/ysp/DocterPai_YSP/AVACK2017/allegro/my_lib/sot-223.dra
+\i (00:00:00) trapsize 6002
+\i (00:00:00) trapsize 5848
+\i (00:00:00) trapsize 6028
+\i (00:00:00) trapsize 5066
+\i (00:00:00) trapsize 12316
+\i (00:00:01) generaledit 
+\i (00:00:03) drag_start grid 461.711 412.447
+\i (00:00:04) drag_stop -178.720 -235.373
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -331.438 134.106
+\i (00:00:05) trapsize 6158
+\t (00:00:06) >>EDA365 Skill V2.3 加载成功!
+\i (00:00:07) prepopup 107.011 169.822
+\i (00:00:10) pop dyn_option_select @:@Move 
+\i (00:00:10) move 
+\t (00:00:10) last pick:  100.000 200.000
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Element has no origin, using pick.
+\t (00:00:10) Pick new location for the element(s).
+\i (00:00:23) trapsize 7525
+\i (00:00:30) trapsize 7327
+\i (00:00:34) setwindow form.mini
+\i (00:00:34) FORM mini rotate_point User Pick 
+\t (00:00:34) Pick user-pick origin.
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick grid 125.959 119.775
+\t (00:00:36) last pick:  100.000 100.000
+\t (00:00:36) Pick new location for the element(s).
+\i (00:00:37) prepopup 257.842 190.113
+\i (00:00:38) rotate 
+\t (00:00:38) Spin the element(s).
+\i (00:00:39) iangle 90.000
+\t (00:00:39) last angle:  +90.000 Degrees
+\i (00:00:45) pick 0 0 
+\t (00:00:45) last pick:  0.000 0.000
+\i (00:00:45) generaledit 
+\i (00:00:46) prepopup 275.427 222.351
+\i (00:00:47) pick grid 169.920 292.688
+\t (00:00:47) last pick:  200.000 300.000
+\i (00:00:47) save 
+\i (00:00:49) fillin yes 
+\t (00:00:51) Symbol 'sot-223.psm' created.
+\i (00:00:51) generaledit 
+\i (00:00:52) pick grid -444.067 431.898
+\t (00:00:52) last pick:  -400.000 400.000
+\i (00:00:55) EDA365_New 
+\i (00:00:56) newdrawfillin "menu_cancel"
+\i (00:00:56) generaledit 
+\i (00:00:58) pick grid 51.226 392.333
+\t (00:00:58) last pick:  100.000 400.000
+\i (00:00:59) save 
+\e (00:01:00) Finish current command first.
+\i (00:01:00) fillin yes 
+\t (00:01:01) Symbol 'sot-223.psm' created.
+\i (00:01:01) generaledit 
+\i (00:01:03) pick grid -174.440 449.482
+\t (00:01:03) last pick:  -200.000 400.000
+\i (00:01:03) save 
+\i (00:01:04) fillin yes 
+\t (00:01:04) Symbol 'sot-223.psm' created.
+\i (00:01:04) generaledit 
+\t (00:01:05) >>EDA365 Skill V2.3 加载成功!
+   (00:01:05) function EDA365_Report_NoRefdes redefined
+   (00:01:05) function EDA365_ReportSinglePin redefined
+\i (00:01:05) exit 
+\t (00:01:05)     Journal end - Sat Sep 16 12:17:04 2017

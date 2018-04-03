@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MTG1600_1600.dra                              )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Thu Apr 27 16:26:30 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/avack/AVACK2017/AVACK2017/allegro/my_lib
+    Name      = mtg1600_1600.psm
+    User      = AVA147
+    Machine   = AVA147-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

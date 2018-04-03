@@ -1,0 +1,10 @@
+'INDUCTOR_MHCI06030_2.2UH' 'inductor_mhci06030_22uh.txt';
+'FERRITBEAD_0_R0402_1K@100M(0402' 'ferritbead_0_r0402_1k100m0402.txt';
+'CAP NP_C0402_15PF/0402/50V' 'capnp_c0402_15pf040250v.txt';
+'INDUCTOR_MHCI06030_4.7UH' 'inductor_mhci06030_47uh.txt';
+'CAP NP_C0603_1UF/0603/50V' 'capnp_c0603_1uf060350v.txt';
+'RESISTOR_R0402_40.2K' 'resistor_r0402_402k.txt';
+'T POINT R_TP40_SMD_T POINT R' 'tpointr_tp40_smd_tpointr.txt';
+'CAP NP_C0805_22UF/0805/25V' 'capnp_c0805_22uf080525v.txt';
+'CAP NP_C0402_100NF' 'capnp_c0402_100nf.txt';
+'HEADER 2_HDR254M1X2_HEADER 2' 'header2_hdr254m1x2_header2.txt';

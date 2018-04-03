@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LDS_3461AXBX.dra                              )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Tue Apr 11 16:06:59 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/avack/AVACK2017/AVACK2017/allegro/my_lib
+    Name      = lds_3461axbx.psm
+    User      = AVA147
+    Machine   = AVA147-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,79 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Tue Aug 29 09:51:29 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/Administrator/Desktop/MP165x_test/pcb/MP165X_test.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  OX0_27Y1_10T being dumped.
+
+  PAD1_70D0_90S being dumped.
+
+  SMDX0_5Y0_6R being dumped.
+
+  SMDX0_6Y0_8R being dumped.
+
+  R295_240 being dumped.
+
+  SMDX0_90Y1_20R being dumped.
+
+  SMDX0_90Y0_80R being dumped.
+
+  VIA being dumped.
+
+  CIR40 being dumped.
+
+  PAD1_70D0_90 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+  f170_230_40 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  sot563 being dumped.
+
+  led0603 being dumped.
+
+  mhci06030 being dumped.
+
+  tp40_smd being dumped.
+
+  hdr254m1x2 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  c0805 being dumped.
+
+  r0402 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               10
+Number of package symbols dumped:          9
+Number of flash symbols dumped:            2
+
+Total number of symbols dumped:           11
+*****************************************************
+

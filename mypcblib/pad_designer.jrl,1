@@ -1,0 +1,16 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Fri Aug 04 15:48:53 2017
+\t (00:00:00)         Host=WIN10-705111911 User=Administrator Pid=6452 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe E:\ysp\DocterPai_YSP\AVACK2017\allegro\my_lib\smd1r10x1r40.pad
+\t (00:00:00) 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) FORM padedit layers  
+\i (00:00:16) FORM padedit grid row soldermask_top 
+\i (00:00:26) FORM padedit grid row soldermask_bottom 
+\i (00:00:29) FORM padedit grid row pastemask_top 
+\i (00:00:30) FORM padedit grid row pastemask_bottom 
+\i (00:00:31) FORM padedit grid row pastemask_top 
+\i (00:00:39) FORM padedit grid row soldermask_top 
+\i (00:00:41) FORM padedit grid row begin_layer 
+\i (00:00:42) pse_exit
+\t (00:00:42)     Journal end - Fri Aug 04 15:49:36 2017

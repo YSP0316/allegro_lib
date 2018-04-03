@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MTG240_500.dra                                )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Tue Apr 25 13:35:13 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/avack/AVACK2017/AVACK2017/allegro/my_lib
+    Name      = mtg240_500.psm
+    User      = AVA147
+    Machine   = AVA147-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED0805-1.dra                                 )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Sat Aug 12 16:44:12 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/ysp/DocterPai_YSP/AVACK2017/allegro/my_lib
+    Name      = led0805-1.psm
+    User      = Administrator
+    Machine   = WIN10-705111911
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

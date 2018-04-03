@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led0603.dra                                   )
+(    Software Version : 16.6S041                                      )
+(    Date/Time        : Tue Aug 29 09:50:07 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Administrator/Desktop/lib
+    Name      = led0603.psm
+    User      = Administrator
+    Machine   = WIN10-705111911
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
